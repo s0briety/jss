@@ -1,0 +1,19 @@
+{
+  "name": "jss",
+  "version": "1.0.0",
+  "description": "A javascript based HTML/CSS framework.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0briety/jss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0briety/jss/issues"
+  },
+  "homepage": "https://github.com/s0briety/jss#readme"
+}
