@@ -2,11 +2,7 @@
   "name": "jss",
   "version": "1.0.0",
   "description": "A javascript based HTML/CSS framework.",
-<<<<<<< HEAD
   "main": "src/index.js",
-=======
-  "main": "src/index.js",
->>>>>>> origin/main
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/s0briety/jss/issues"
   },
-  "homepage": "https://github.com/s0briety/jss#readme"
+  "homepage": "https://github.com/s0briety/jss#readme",
+  "dependencies": {
+    "webpack": "^5.98.0"
+  }
 }
